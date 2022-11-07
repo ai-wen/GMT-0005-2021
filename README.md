@@ -26,9 +26,9 @@
 - [15] 离散傅里叶检测 DiscreteFourierTransformTest
 
 
-![测试时常](https://github.com/ai-wen/GMT-0005-2021/3.png)
-![工具界面](https://github.com/ai-wen/GMT-0005-2021/1.png)
-![CPU占用](https://github.com/ai-wen/GMT-0005-2021/2.png)
+![测试时常](https://github.com/ai-wen/GMT-0005-2021/blob/main/3.png)
+![工具界面](https://github.com/ai-wen/GMT-0005-2021/blob/main/1.png)
+![CPU占用](https://github.com/ai-wen/GMT-0005-2021/blob/main/2.png)
 
 # rdgen.exe 随机数生成工具
 gen.bat
