@@ -41,6 +41,7 @@
 ![测试时长](https://github.com/ai-wen/GMT-0005-2021/blob/main/3.png)
 ![工具界面](https://github.com/ai-wen/GMT-0005-2021/blob/main/1.png)
 ![CPU占用](https://github.com/ai-wen/GMT-0005-2021/blob/main/2.png)
+![工具界面](https://github.com/ai-wen/GMT-0005-2021/blob/main/6.png)
 
 # rdgen.exe 随机数生成工具
 gen.bat
